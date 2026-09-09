@@ -25,7 +25,7 @@ holds:
 - `pr/<number>/`: the report of the last reference test run requested on a
   pull request (a user with write access adds the `browsertest` label to
   request one). Open
-  `pr/<number>/<platform>/reftest-analyzer.html#web=eq.log` to compare the
+  `pr/<number>/<run id>/<platform>/reftest-analyzer.html#web=eq.log` to compare the
   differing pages with their references. Reports are removed after 30 days.
 - `per-test-index.json`: the per-test coverage index used by
   `npx gulp coverage_search`.
