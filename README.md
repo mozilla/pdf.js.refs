@@ -29,3 +29,6 @@ holds:
   differing pages with their references. Reports are removed after 30 days.
 - `per-test-index.json`: the per-test coverage index used by
   `npx gulp coverage_search`.
+- `makeref-badge.json`: a [shields.io endpoint](https://shields.io/badges/endpoint)
+  telling whether the last reference images update on `main` succeeded, shown
+  as a badge in the pdf.js README.
