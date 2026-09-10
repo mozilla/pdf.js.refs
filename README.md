@@ -1,4 +1,4 @@
-# pdf.js.refs
+# pdf.js.refs [![Reference images](https://img.shields.io/endpoint?url=https%3A%2F%2Fmozilla.github.io%2Fpdf.js.refs%2Fmakeref-badge.json)](https://github.com/mozilla/pdf.js.refs/commits/main)
 
 Reference images for the [pdf.js](https://github.com/mozilla/pdf.js) reference tests.
 
