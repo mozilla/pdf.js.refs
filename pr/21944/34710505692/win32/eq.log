@@ -1,0 +1,1191 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/4.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page6 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/6.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/6.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page8 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/8.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/8.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page9 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/9.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/9.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page10 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/10.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/10.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page11 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/11.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/11.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page12 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/12.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/12.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page13 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/13.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/13.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page14 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/14.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/14.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page15 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/15.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/15.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page16 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/16.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/16.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page17 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/17.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/17.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page18 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/18.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/18.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page19 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/19.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/19.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page20 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/20.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/20.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page21 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/21.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/21.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page22 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/22.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/22.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page23 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/23.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/23.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page24 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/24.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/24.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page25 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/25.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/25.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page26 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/26.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/26.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page27 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/27.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/27.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page28 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/28.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/28.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page29 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/29.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/29.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page30 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/30.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/30.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page31 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/31.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/31.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page32 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/32.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/32.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page33 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/33.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/33.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page34 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/34.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/34.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page35 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/35.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/35.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page36 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/36.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/36.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page37 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/37.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/37.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page38 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/38.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/38.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page39 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/39.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/39.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page40 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/40.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/40.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page41 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/41.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/41.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page42 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/42.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/42.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page43 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/43.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/43.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page44 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/44.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/44.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page45 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/45.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/45.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page46 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/46.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/46.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page47 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/47.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/47.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page48 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/48.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/48.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page49 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/49.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/49.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page50 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/50.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/50.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page51 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/51.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/51.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page52 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/52.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/52.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page53 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/53.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/53.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page54 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/54.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/54.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page55 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/55.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/55.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page56 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/56.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/56.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page57 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/57.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/57.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page58 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/58.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/58.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page59 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/59.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/59.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page60 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/60.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/60.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page61 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/61.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/61.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page62 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/62.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/62.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page63 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/63.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/63.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page64 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/64.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/64.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page65 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/65.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/65.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page66 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/66.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/66.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page67 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/67.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/67.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page68 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/68.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/68.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page69 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/69.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/69.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page70 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/70.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/70.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page71 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/71.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/71.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page72 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/72.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/72.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page73 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/73.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/73.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page74 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/74.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/74.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page75 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/75.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/75.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page76 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/76.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/76.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page77 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/77.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/77.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page78 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/78.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/78.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page79 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/79.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/79.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page80 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/80.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/80.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page81 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/81.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/81.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page82 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/82.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/82.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page83 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/83.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/83.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page84 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/84.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/84.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page85 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/85.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/85.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page86 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/86.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/86.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page87 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/87.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/87.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page88 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/88.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/88.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page89 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/89.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/89.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page90 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/90.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/90.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page91 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/91.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/91.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page92 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/92.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/92.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page93 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/93.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/93.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page94 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/94.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/94.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page95 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/95.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/95.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page96 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/96.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/96.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page97 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/97.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/97.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page98 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/98.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/98.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page99 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/99.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/99.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page100 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/100.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/100.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page101 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/101.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/101.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page102 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/102.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/102.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page103 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/103.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/103.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page104 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/104.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/104.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page105 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/105.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/105.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page106 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/106.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/106.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page107 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/107.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/107.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page108 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/108.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/108.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page109 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/109.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/109.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page110 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/110.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/110.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page111 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/111.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/111.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page112 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/112.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/112.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page113 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/113.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/113.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page114 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/114.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/114.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page115 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/115.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/115.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page116 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/116.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/116.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page117 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/117.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/117.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page118 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/118.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/118.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page119 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/119.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/119.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page120 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/120.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/120.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page121 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/121.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/121.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page122 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/122.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/122.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page123 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/123.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/123.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page124 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/124.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/124.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page125 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/125.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/125.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page126 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/126.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/126.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page127 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/127.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/127.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page128 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/128.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/128.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page129 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/129.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/129.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page130 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/130.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/130.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page131 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/131.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/131.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page132 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/132.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/132.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page133 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/133.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/133.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page134 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/134.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/134.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page135 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/135.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/135.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page136 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/136.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/136.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page137 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/137.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/137.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page138 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/138.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/138.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page139 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/139.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/139.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page140 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/140.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/140.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page141 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/141.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/141.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page142 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/142.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/142.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page143 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/143.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/143.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page144 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/144.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/144.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page145 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/145.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/145.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page146 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/146.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/146.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page147 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/147.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/147.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page148 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/148.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/148.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page149 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/149.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/149.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page150 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/150.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/150.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page151 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/151.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/151.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page152 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/152.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/152.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page153 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/153.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/153.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page154 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/154.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/154.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page155 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/155.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/155.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page156 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/156.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/156.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page157 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/157.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/157.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page158 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/158.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/158.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page159 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/159.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/159.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-page160 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar/160.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar/160.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_dhl_shipment-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1121x793x1): test_snapshots/win32/firefox/xfa_dhl_shipment/3.png
+REFTEST   IMAGE 2 (REFERENCE)(1121x793x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_dhl_shipment/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue13610-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue13610/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue13610/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1898802-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1588x1122x1): test_snapshots/win32/firefox/bug1898802/1.png
+REFTEST   IMAGE 2 (REFERENCE)(1588x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/bug1898802/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue2770-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue2770-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue2770-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue9186-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue9186/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue9186/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-ascii_save_print_textfields-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/ascii_save_print_textfields/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/ascii_save_print_textfields/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue20246-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue20246/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue20246/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page23 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/23.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/23.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page24 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/24.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/24.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page30 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/30.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/30.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page31 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/31.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/31.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page32 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/32.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/32.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page33 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/33.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/33.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page35 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/35.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/35.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page37 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/37.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/37.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page60 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/60.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/60.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page62 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/62.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/62.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page69 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/69.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/69.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page73 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/73.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/73.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page79 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/79.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/79.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-intelisa-eq-page81 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/intelisa-eq/81.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/intelisa-eq/81.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/4.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page6 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/6.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/6.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page8 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/8.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/8.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page9 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/9.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/9.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page10 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/10.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/10.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page12 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/12.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/12.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page13 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/13.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/13.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page15 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/15.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/15.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page16 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/16.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/16.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page17 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/17.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/17.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page19 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/19.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/19.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page20 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/20.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/20.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page21 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/21.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/21.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page22 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/22.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/22.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page23 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/23.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/23.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page24 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/24.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/24.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page25 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/25.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/25.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page26 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/26.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/26.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page27 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/27.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/27.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page28 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/28.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/28.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page29 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/29.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/29.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page30 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/30.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/30.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page31 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/31.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/31.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page32 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/32.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/32.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page33 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/33.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/33.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page34 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/34.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/34.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page35 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/35.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/35.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page36 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/36.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/36.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page37 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/37.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/37.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page38 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/38.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/38.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page39 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/39.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/39.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page41 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/41.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/41.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page42 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/42.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/42.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page44 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/44.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/44.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page45 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/45.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/45.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page46 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/46.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/46.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page47 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/47.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/47.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page48 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/48.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/48.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page49 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/49.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/49.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page51 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/51.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/51.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page52 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/52.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/52.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page53 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/53.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/53.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page54 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/54.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/54.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page55 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/55.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/55.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page56 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/56.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/56.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page57 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/57.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/57.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page58 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/58.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/58.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page59 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/59.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/59.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page60 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/60.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/60.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page61 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/61.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/61.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page62 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/62.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/62.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page63 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/63.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/63.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page65 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/65.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/65.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page66 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/66.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/66.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page67 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/67.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/67.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page68 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/68.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/68.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page69 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/69.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/69.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page70 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/70.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/70.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page71 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/71.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/71.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page72 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/72.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/72.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page73 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/73.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/73.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page74 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/74.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/74.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page75 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/75.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/75.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page76 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/76.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/76.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page77 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/77.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/77.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page78 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/78.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/78.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page79 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/79.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/79.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page81 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/81.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/81.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page82 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/82.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/82.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page83 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/83.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/83.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page85 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/85.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/85.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page86 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/86.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/86.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page87 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/87.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/87.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page88 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/88.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/88.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page89 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/89.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/89.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page90 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/90.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/90.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page91 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/91.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/91.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page94 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/94.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/94.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page95 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/95.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/95.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page96 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/96.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/96.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page97 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/97.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/97.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page98 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/98.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/98.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page99 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/99.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/99.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page102 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/102.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/102.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page104 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/104.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/104.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page105 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/105.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/105.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page106 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/106.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/106.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page107 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/107.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/107.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page108 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/108.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/108.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page109 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/109.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/109.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page110 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/110.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/110.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page112 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/112.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/112.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page113 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/113.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/113.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page116 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/116.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/116.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page118 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/118.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/118.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page119 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/119.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/119.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page120 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/120.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/120.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page121 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/121.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/121.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page122 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/122.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/122.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page123 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/123.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/123.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page124 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/124.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/124.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page125 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/125.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/125.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page126 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/126.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/126.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page127 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/127.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/127.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page128 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/128.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/128.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page129 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/129.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/129.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page131 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/131.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/131.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page132 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/132.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/132.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page133 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/133.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/133.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page134 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/134.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/134.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page135 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/135.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/135.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page136 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/136.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/136.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page137 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/137.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/137.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page138 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/138.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/138.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page139 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/139.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/139.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page140 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/140.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/140.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page141 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/141.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/141.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page143 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/143.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/143.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page144 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/144.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/144.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page145 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/145.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/145.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page146 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/146.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/146.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page147 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/147.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/147.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page148 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/148.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/148.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page149 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/149.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/149.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page150 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/150.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/150.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page151 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/151.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/151.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page152 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/152.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/152.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page153 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/153.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/153.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page154 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/154.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/154.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page155 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/155.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/155.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page156 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/156.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/156.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page157 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/157.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/157.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page158 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/158.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/158.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page159 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/159.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/159.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-artofwar-partial-page160 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/artofwar-partial/160.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/artofwar-partial/160.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/2.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/3.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/4.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page8 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/8.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/8.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page9 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/9.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/9.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718735-page10 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/xfa_bug1718735/10.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718735/10.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1718740-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1121x793x1): test_snapshots/win32/firefox/xfa_bug1718740/3.png
+REFTEST   IMAGE 2 (REFERENCE)(1121x793x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/xfa_bug1718740/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue18059-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue18059-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue18059-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue14821-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(794x1123x1): test_snapshots/win32/firefox/issue14821/1.png
+REFTEST   IMAGE 2 (REFERENCE)(794x1123x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue14821/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-preistabelle-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/preistabelle/2.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/preistabelle/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue18122-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue18122/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue18122/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue3064-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue3064-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue3064-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue6931-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue6931/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue6931/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/3.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/tracemonkey-text/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/tracemonkey-text/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page11 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/11.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/tracemonkey-text/11.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/2.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/3.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/4.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page6 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/6.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/6.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page8 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/8.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/8.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page9 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/9.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/9.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page10 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/10.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/10.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page11 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/11.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/11.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page12 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/12.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/12.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page13 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/13.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/13.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page14 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/14.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/14.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page15 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/15.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/15.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page16 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/16.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/16.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page17 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/17.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/17.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page18 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/18.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/18.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page19 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/19.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/19.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page20 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/20.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/20.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page21 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/21.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/21.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page22 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/22.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/22.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page23 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/23.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/23.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page24 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/24.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/24.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page25 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/25.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/25.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page26 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/26.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/26.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page27 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/27.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/27.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page28 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/28.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/28.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page29 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/29.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/29.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page30 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/30.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/30.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-page31 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01/31.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01/31.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue16843-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue16843-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue16843-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue18941-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1054x1): test_snapshots/win32/firefox/issue18941/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1054x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue18941/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1219400-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/bug1219400/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/bug1219400/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1169-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue1169/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue1169/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1169-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue1169/4.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue1169/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1169-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue1169/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue1169/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1169-page6 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue1169/6.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue1169/6.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1169-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue1169/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue1169/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1466-partial-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue1466-partial/2.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue1466-partial/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue6931-disable-isOffscreenCanvasSupported-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue6931-disable-isOffscreenCanvasSupported/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue6931-disable-isOffscreenCanvasSupported/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-ascii_print_textfields-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/ascii_print_textfields/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/ascii_print_textfields/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-partial-page9 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01-partial/9.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01-partial/9.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-partial-page18 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01-partial/18.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01-partial/18.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-unix01-partial-page20 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/unix01-partial/20.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/unix01-partial/20.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page12 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/12.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/12.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page13 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/13.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/13.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page14 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/14.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/14.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page15 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/15.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/15.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page16 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/16.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/16.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page17 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/17.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/17.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page18 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/18.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/18.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page19 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/19.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/19.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page20 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/20.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/20.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page21 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/21.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/21.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page22 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/22.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/22.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page23 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/23.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/23.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page25 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/25.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/25.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page26 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/26.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/26.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page27 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/27.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/27.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page28 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/28.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/28.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page30 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/30.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/30.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page39 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/39.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/39.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-fips197-page51 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/fips197/51.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/fips197/51.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue9367-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue9367/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/66c88e87154605ca53bba8b587a2132146ab1afd/win32/firefox/issue9367/1.png
