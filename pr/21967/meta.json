@@ -1,0 +1,30 @@
+{
+  "pr": 21967,
+  "sha": "57a630e32b9468259e833cf1e753c62c85f484c0",
+  "refsSha": "a808f1970d995d239bfec7ade7f2a8be3ceabce0",
+  "baseSha": "58550d5b43b01e35154fc4aa15de5ff62602b4f3",
+  "date": "2026-09-16T17:29:08.999Z",
+  "runUrl": "https://github.com/mozilla/pdf.js.pdfs/actions/runs/35126474640",
+  "platforms": {
+    "linux": {
+      "numRuns": 1380,
+      "numErrors": 0,
+      "numEqFailures": 1,
+      "numFBFFailures": 0,
+      "numEqNoSnapshot": 0,
+      "runtime": 741.817,
+      "broken": []
+    },
+    "win32": {
+      "numRuns": 1034,
+      "numErrors": 0,
+      "numEqFailures": 653,
+      "numFBFFailures": 0,
+      "numEqNoSnapshot": 0,
+      "runtime": 2033.912,
+      "broken": [
+        "shard 4: invalid test summary"
+      ]
+    }
+  }
+}
