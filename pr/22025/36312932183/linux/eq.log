@@ -1,0 +1,39 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_2-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_2/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_2/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_2-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_2/3.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_2/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/2.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/3.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/4.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/5.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page6 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/6.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/6.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/7.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1717668_3-page8 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1717668_3/8.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1717668_3/8.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1720888-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1720888/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1720888/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1720888-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1720888/4.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1720888/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-xfa_bug1735738-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1121x1): test_snapshots/linux/firefox/xfa_bug1735738/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1121x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/27f35e95236f7a6c12dd27857575f0934d99d9e1/linux/firefox/xfa_bug1735738/1.png
