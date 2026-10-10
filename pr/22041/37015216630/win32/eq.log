@@ -1,0 +1,6 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue20930-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(533x666x1): test_snapshots/win32/firefox/issue20930-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(533x666x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/a2f53c81c0b76674ea3290c75465897763759574/win32/firefox/issue20930-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue2177-eq-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(300x300x1): test_snapshots/win32/firefox/issue2177-eq/1.png
+REFTEST   IMAGE 2 (REFERENCE)(300x300x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/a2f53c81c0b76674ea3290c75465897763759574/win32/firefox/issue2177-eq/1.png

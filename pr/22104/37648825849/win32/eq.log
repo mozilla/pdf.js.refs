@@ -1,0 +1,42 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/2.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/3.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/4.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page6 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/6.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/6.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page8 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/8.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/8.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page9 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/9.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/9.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page10 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/10.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/10.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page11 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/11.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/11.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page12 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/12.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/12.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page13 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/13.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/13.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-eq-page14 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-eq/14.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cfb07bcc7ae759603d2d41461b2e89e37f1571fe/win32/firefox/tracemonkey-eq/14.png

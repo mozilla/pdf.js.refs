@@ -1,0 +1,9 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-transfer_maps-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x266x1): test_snapshots/win32/firefox/transfer_maps/1.png
+REFTEST   IMAGE 2 (REFERENCE)(266x266x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/c37d6059a5374950455141cfe574a7279710a94b/win32/firefox/transfer_maps/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue16114-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(218x192x1): test_snapshots/win32/firefox/issue16114/1.png
+REFTEST   IMAGE 2 (REFERENCE)(218x192x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/c37d6059a5374950455141cfe574a7279710a94b/win32/firefox/issue16114/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue20722-page171 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue20722/171.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/c37d6059a5374950455141cfe574a7279710a94b/win32/firefox/issue20722/171.png
