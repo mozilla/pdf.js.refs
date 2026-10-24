@@ -1,0 +1,6 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue20930-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(533x666x1): test_snapshots/linux/firefox/issue20930-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(533x666x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/fd080e6597e294f37531c86c6430b401679e11ab/linux/firefox/issue20930-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-blendmode-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/blendmode/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/fd080e6597e294f37531c86c6430b401679e11ab/linux/firefox/blendmode/1.png

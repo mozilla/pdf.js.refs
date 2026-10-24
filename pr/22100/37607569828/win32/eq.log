@@ -1,0 +1,3 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue16432-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue16432/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/026380f231ff38a068c545044166e701113bf68f/win32/firefox/issue16432/1.png
