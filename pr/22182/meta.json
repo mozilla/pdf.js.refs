@@ -1,0 +1,27 @@
+{
+  "pr": 22182,
+  "sha": "a95407a007bd21530ea643e74d2d63ac094f3f35",
+  "refsSha": "8acade14e60dcbadfc744387404695e6cfba81b2",
+  "date": "2026-10-14T08:28:25.785Z",
+  "runUrl": "https://github.com/mozilla/pdf.js.pdfs/actions/runs/38534341247",
+  "platforms": {
+    "linux": {
+      "numRuns": 1396,
+      "numErrors": 0,
+      "numEqFailures": 3,
+      "numFBFFailures": 0,
+      "numEqNoSnapshot": 1,
+      "runtime": 670.1880000000001,
+      "broken": []
+    },
+    "win32": {
+      "numRuns": 1396,
+      "numErrors": 0,
+      "numEqFailures": 2,
+      "numFBFFailures": 0,
+      "numEqNoSnapshot": 1,
+      "runtime": 942.235,
+      "broken": []
+    }
+  }
+}

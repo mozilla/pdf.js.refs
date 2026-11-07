@@ -1,0 +1,3 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1905623-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1122x793x1): test_snapshots/win32/firefox/bug1905623/2.png
+REFTEST   IMAGE 2 (REFERENCE)(1122x793x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/41082846cb87f1d4b7c5bb851f01d1f0ae7962e4/win32/firefox/bug1905623/2.png

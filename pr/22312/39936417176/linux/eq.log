@@ -1,0 +1,3 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-blendmode-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/blendmode/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/a5ca8637a713dffe03482da28affb7f7fc2e8abc/linux/firefox/blendmode/1.png
