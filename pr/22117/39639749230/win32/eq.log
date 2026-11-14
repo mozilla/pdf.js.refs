@@ -1,0 +1,21 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue13783-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue13783/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6cc7acf45c648d905627ffee70515b766375a924/win32/firefox/issue13783/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-pr20043-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1056x816x1): test_snapshots/win32/firefox/pr20043/1.png
+REFTEST   IMAGE 2 (REFERENCE)(1056x816x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6cc7acf45c648d905627ffee70515b766375a924/win32/firefox/pr20043/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-annotation-link-text-popup-rotated-270-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1122x793x1): test_snapshots/win32/firefox/annotation-link-text-popup-rotated-270/1.png
+REFTEST   IMAGE 2 (REFERENCE)(1122x793x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6cc7acf45c648d905627ffee70515b766375a924/win32/firefox/annotation-link-text-popup-rotated-270/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue16114-partial-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(218x192x1): test_snapshots/win32/firefox/issue16114-partial/1.png
+REFTEST   IMAGE 2 (REFERENCE)(218x192x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6cc7acf45c648d905627ffee70515b766375a924/win32/firefox/issue16114-partial/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue17794-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue17794/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6cc7acf45c648d905627ffee70515b766375a924/win32/firefox/issue17794/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-annotation-link-text-popup-rotated-90-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1122x793x1): test_snapshots/win32/firefox/annotation-link-text-popup-rotated-90/1.png
+REFTEST   IMAGE 2 (REFERENCE)(1122x793x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6cc7acf45c648d905627ffee70515b766375a924/win32/firefox/annotation-link-text-popup-rotated-90/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-annotation-link-text-popup-rotated-180-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/annotation-link-text-popup-rotated-180/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6cc7acf45c648d905627ffee70515b766375a924/win32/firefox/annotation-link-text-popup-rotated-180/1.png

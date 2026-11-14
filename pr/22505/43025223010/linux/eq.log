@@ -1,0 +1,18 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-knockout_groups_test-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(853x813x1): test_snapshots/linux/firefox/knockout_groups_test/1.png
+REFTEST   IMAGE 2 (REFERENCE)(853x813x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/aa46b632e190d6d512bb24b0e739b17e65df8493/linux/firefox/knockout_groups_test/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-knockout_groups_test-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(853x813x1): test_snapshots/linux/firefox/knockout_groups_test/2.png
+REFTEST   IMAGE 2 (REFERENCE)(853x813x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/aa46b632e190d6d512bb24b0e739b17e65df8493/linux/firefox/knockout_groups_test/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-knockout_groups_test-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(853x813x1): test_snapshots/linux/firefox/knockout_groups_test/3.png
+REFTEST   IMAGE 2 (REFERENCE)(853x813x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/aa46b632e190d6d512bb24b0e739b17e65df8493/linux/firefox/knockout_groups_test/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-knockout_groups_test-main-thread-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(853x813x1): test_snapshots/linux/firefox/knockout_groups_test-main-thread/1.png
+REFTEST   IMAGE 2 (REFERENCE)(853x813x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/aa46b632e190d6d512bb24b0e739b17e65df8493/linux/firefox/knockout_groups_test-main-thread/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-knockout_groups_test-main-thread-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(853x813x1): test_snapshots/linux/firefox/knockout_groups_test-main-thread/2.png
+REFTEST   IMAGE 2 (REFERENCE)(853x813x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/aa46b632e190d6d512bb24b0e739b17e65df8493/linux/firefox/knockout_groups_test-main-thread/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-knockout_groups_test-main-thread-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(853x813x1): test_snapshots/linux/firefox/knockout_groups_test-main-thread/3.png
+REFTEST   IMAGE 2 (REFERENCE)(853x813x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/aa46b632e190d6d512bb24b0e739b17e65df8493/linux/firefox/knockout_groups_test-main-thread/3.png
