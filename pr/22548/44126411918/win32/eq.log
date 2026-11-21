@@ -1,0 +1,6 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue13520-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(277x119x1): test_snapshots/win32/firefox/issue13520/1.png
+REFTEST   IMAGE 2 (REFERENCE)(277x119x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/9e1ae862ece8cd719a4ce647e7f0419ae17a2a17/win32/firefox/issue13520/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-blendmode-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/blendmode/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/9e1ae862ece8cd719a4ce647e7f0419ae17a2a17/win32/firefox/blendmode/1.png

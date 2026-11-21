@@ -1,0 +1,12 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-mao-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/mao-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cc61b0b6a7b3ef9e1dcbcba7917012c9274d78e5/linux/firefox/mao-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue9655-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/linux/firefox/issue9655-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cc61b0b6a7b3ef9e1dcbcba7917012c9274d78e5/linux/firefox/issue9655-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue15352-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1043x1): test_snapshots/linux/firefox/issue15352/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1043x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cc61b0b6a7b3ef9e1dcbcba7917012c9274d78e5/linux/firefox/issue15352/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue19624-text-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(3333x3333x1): test_snapshots/linux/firefox/issue19624-text/2.png
+REFTEST   IMAGE 2 (REFERENCE)(3333x3333x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/cc61b0b6a7b3ef9e1dcbcba7917012c9274d78e5/linux/firefox/issue19624-text/2.png
