@@ -1,0 +1,15 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-mesh_shading_empty-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(666x333x1): test_snapshots/linux/firefox/mesh_shading_empty/1.png
+REFTEST   IMAGE 2 (REFERENCE)(666x333x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/linux/firefox/mesh_shading_empty/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-function_based_shading_cmyk-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(386x386x1): test_snapshots/linux/firefox/function_based_shading_cmyk/1.png
+REFTEST   IMAGE 2 (REFERENCE)(386x386x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/linux/firefox/function_based_shading_cmyk/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-blendmode-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/blendmode/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/linux/firefox/blendmode/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-function-based-shading-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/linux/firefox/function-based-shading/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/linux/firefox/function-based-shading/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-personwithdog-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/linux/firefox/personwithdog/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/linux/firefox/personwithdog/1.png

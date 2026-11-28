@@ -1,0 +1,132 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug931481-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/bug931481/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/bug931481/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue6962-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x66x1): test_snapshots/win32/firefox/issue6962/1.png
+REFTEST   IMAGE 2 (REFERENCE)(266x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue6962/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1127-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue1127-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue1127-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue5972-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x66x1): test_snapshots/win32/firefox/issue5972/1.png
+REFTEST   IMAGE 2 (REFERENCE)(266x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue5972/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue12909-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(566x869x1): test_snapshots/win32/firefox/issue12909/1.png
+REFTEST   IMAGE 2 (REFERENCE)(566x869x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue12909/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue15516-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x66x1): test_snapshots/win32/firefox/issue15516/1.png
+REFTEST   IMAGE 2 (REFERENCE)(266x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue15516/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-taro-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/taro-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/taro-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-taro-text-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/taro-text/2.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/taro-text/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-taro-text-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/taro-text/3.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/taro-text/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-taro-text-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/taro-text/4.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/taro-text/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue4550-text-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x66x1): test_snapshots/win32/firefox/issue4550-text/2.png
+REFTEST   IMAGE 2 (REFERENCE)(266x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue4550-text/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1045-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x66x1): test_snapshots/win32/firefox/issue1045/1.png
+REFTEST   IMAGE 2 (REFERENCE)(266x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue1045/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue10529-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/issue10529/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue10529/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1130815-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/bug1130815-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/bug1130815-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1130815-text-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/bug1130815-text/2.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/bug1130815-text/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-preistabelle-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/preistabelle-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/preistabelle-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue19954-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue19954/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue19954/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-mao-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/mao-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/mao-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-zero_descent-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/win32/firefox/zero_descent/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/zero_descent/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue14497-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(4096x2897x1): test_snapshots/win32/firefox/issue14497/1.png
+REFTEST   IMAGE 2 (REFERENCE)(4096x2897x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue14497/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue16224-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(243x43x1): test_snapshots/win32/firefox/issue16224-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(243x43x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue16224-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/2.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/3.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page4 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/4.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/4.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page5 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/5.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/5.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page6 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/6.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/6.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page7 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/7.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/7.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page8 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/8.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/8.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page9 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/9.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/9.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page10 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/10.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/10.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page11 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/11.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/11.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page12 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/12.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/12.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page13 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/13.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/13.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-tracemonkey-text-page14 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/tracemonkey-text/14.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/tracemonkey-text/14.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug946506-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1064x794x1): test_snapshots/win32/firefox/bug946506-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(1064x794x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/bug946506-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-rotated-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/rotated-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/rotated-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue4665-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(366x66x1): test_snapshots/win32/firefox/issue4665-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(366x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue4665-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue16843-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue16843-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue16843-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue7492-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x66x1): test_snapshots/win32/firefox/issue7492-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(266x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue7492-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue15352-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1043x1): test_snapshots/win32/firefox/issue15352/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1043x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue15352/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue5734-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(266x66x1): test_snapshots/win32/firefox/issue5734-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(266x66x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue5734-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue1936-text-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue1936-text/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue1936-text/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue11656-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(816x1056x1): test_snapshots/win32/firefox/issue11656/1.png
+REFTEST   IMAGE 2 (REFERENCE)(816x1056x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/6f791aadee2ef47a6766e4fb4e95f52a6ba87cea/win32/firefox/issue11656/1.png

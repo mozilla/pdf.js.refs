@@ -1,0 +1,6 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1123803-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(1118x793x1): test_snapshots/win32/firefox/bug1123803/1.png
+REFTEST   IMAGE 2 (REFERENCE)(1118x793x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/ab9a80085dbcd1c2bb391a6d6fd6883ba53cc86b/win32/firefox/bug1123803/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue9017_reduced-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(808x1137x1): test_snapshots/win32/firefox/issue9017_reduced/1.png
+REFTEST   IMAGE 2 (REFERENCE)(808x1137x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/ab9a80085dbcd1c2bb391a6d6fd6883ba53cc86b/win32/firefox/issue9017_reduced/1.png

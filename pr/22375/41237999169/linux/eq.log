@@ -1,0 +1,30 @@
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1669099-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/bug1669099/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/bug1669099/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue12233-forms-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/issue12233-forms/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/issue12233-forms/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1864136-forms-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/bug1864136-forms/2.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/bug1864136-forms/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue12233-print-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/issue12233-print/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/issue12233-print/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue12233-arabic-print-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/issue12233-arabic-print/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/issue12233-arabic-print/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-checkbox-bad-appearance-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/checkbox-bad-appearance/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/checkbox-bad-appearance/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug2022700-page1 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/bug2022700/1.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/bug2022700/1.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue14021-storage-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/issue14021-storage/2.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/issue14021-storage/2.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-issue14021-storage-page3 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/issue14021-storage/3.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/issue14021-storage/3.png
+REFTEST TEST-UNEXPECTED-FAIL | firefox-bug1860602-page2 | image comparison (==)
+REFTEST   IMAGE 1 (TEST)(793x1122x1): test_snapshots/linux/firefox/bug1860602/2.png
+REFTEST   IMAGE 2 (REFERENCE)(793x1122x1): https://raw.githubusercontent.com/mozilla/pdf.js.refs/46378a2139fe612c3c888f81d796c7df4e4cb012/linux/firefox/bug1860602/2.png
